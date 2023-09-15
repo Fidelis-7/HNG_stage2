@@ -137,7 +137,7 @@ curl -X POST http://localhost:5000/api -d "name=Bob&gender=Male"
 
 ## Setup and Deployment
 
-For detailed instructions on setting up and deploying the API, please refer to the [README.md](README.md) file.
+For detailed instructions on setting up and deploying the API, please refer to the README file.
 
 ---
 

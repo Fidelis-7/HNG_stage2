@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-import json
+import os
 import sqlite3
 
 app = Flask(__name__)
@@ -85,4 +85,4 @@ if __name__ == "__main__":
         person TEXT NOT NULL
     )"""
     cursor.execute(sql_query)
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
