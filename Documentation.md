@@ -1,6 +1,3 @@
-Certainly! Below is an example of a `DOCUMENTATION.md` file for your API:
-
----
 
 # Persons API Documentation
 
