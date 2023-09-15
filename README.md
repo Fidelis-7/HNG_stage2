@@ -1,5 +1,3 @@
-
-
 # Flask Persons API
 
 This is a simple API for managing persons' data.
