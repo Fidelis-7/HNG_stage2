@@ -85,4 +85,4 @@ if __name__ == "__main__":
         person TEXT NOT NULL
     )"""
     cursor.execute(sql_query)
-    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+    app.run(port=1111)
