@@ -1,6 +1,4 @@
-Sure! Here's an example of a `README.md` file tailored for your Flask API:
 
----
 
 # Flask Persons API
 
