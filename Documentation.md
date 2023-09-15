@@ -1,4 +1,3 @@
-
 # Persons API Documentation
 
 This document provides detailed information on how to use the Persons API.
